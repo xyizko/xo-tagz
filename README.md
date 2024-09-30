@@ -12,3 +12,9 @@ Tag | Purpose | Code
 ![](./gfx/r.png) | R&D 
 ![](./gfx/s.png) | Study Related
 
+
+<p align="center>
+<a href="https://x.com/xyizko" target=_blank>
+<img src="https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/a.png">
+</a>
+</p>
