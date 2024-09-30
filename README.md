@@ -10,4 +10,5 @@ Tag | Purpose
 ![](./gfx/e.png) | Experiments which can also be releeases
 ![](./gfx/o.png) | Reports 
 ![](./gfx/r.png) | R&D 
+![](./gfx/s.png) | Study Related
 
