@@ -4,9 +4,9 @@
 
 ![](./gfx/x.jpeg)
 
-Tag | Purpose
---- | --- 
-![](./gfx/a.png) | Repos which are `Releases`
+Tag | Purpose | Code
+--- | --- | ---
+![](./gfx/a.png) | Repos which are `Releases` | `<a href="" target=_blank><p align="center>https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/a.png</p></a>`
 ![](./gfx/e.png) | Experiments which can also be releeases
 ![](./gfx/o.png) | Reports 
 ![](./gfx/r.png) | R&D 
