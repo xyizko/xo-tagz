@@ -14,6 +14,7 @@ Tag | Purpose | Code
 ![](./gfx/r.png) | R&D | `<p align="center"><a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/r.png"></a></p>`
 ![](./gfx/s.png) | Study Related | `<p align="center"><a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/s.png"></a></p>`
 ![](./gfx/i.png) | Investigation Reports | `<p align="center"><a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/i.png"></a></p>`
+![](./gfx/h.png) | Hackathons | `<p align="center"><a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/h.png"></a></p>`
 ![](./gfx/x2.jpg) | Soc | `<p align="center"><a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/x2.jpg"></a></p>`
 
 
